@@ -8,6 +8,6 @@ Because of memeory limits,I only upload parts of code.
 --
 ![image](https://github.com/striver6/Crohn-Lymphoma/blob/master/2.png)
 --
-![image](https://github.com/striver6/Crohn-Lymphoma/blob/master/1.png)
+![image](https://github.com/striver6/Crohn-Lymphoma/blob/master/3.png)
 
 
