@@ -1,1 +1,0 @@
-dataread('D:/code/Semantic-segmentation/2015/unet/unet-first/Lymphoma/images.txt',200)
